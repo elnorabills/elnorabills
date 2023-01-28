@@ -1,4 +1,4 @@
-### Hello! My name is Eleanor Billerbeck, welcome to my GitHub 👋
+### Hello! My name is Eleanor, welcome to my GitHub 👋
 
 I’m a passionate software developer with an innovative and creative mindset. I have experience building dynamic web applications in JavaScript, Python, and HTML/CSS. I am highly analytical and detail oriented which enhances my ability to creatively solve problems. I am excited about learning new programming languages and technologies, along with improving my skills as a developer.
 
